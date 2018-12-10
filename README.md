@@ -1,1 +1,3 @@
-# MO_05
+Graphs
+![Unimodal](images/unimodal.jpg)
+![Multimodal](images/multimodal.jpg)
